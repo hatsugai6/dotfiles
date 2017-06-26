@@ -52,6 +52,8 @@ NeoBundle 'tomtom/tcomment_vim'
 NeoBundle 'QuickBuf'
 " ファイル保存時にブラウザ自働更新
 NeoBundle 'tell-k/vim-browsereload-mac'
+" EditorConfig
+NeoBundle 'editorconfig/editorconfig-vim'
 
 call neobundle#end()
 
