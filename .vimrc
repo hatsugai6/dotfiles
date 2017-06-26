@@ -115,8 +115,9 @@ set cmdheight=2
 " ルーラーを表示する
 "set ruler
 " タブ文字を CTRL-I で表示し、行末に $ で表示する
-"set list
-"set listchars=tab:>-,trail:-,eol:$
+set list
+set listchars=tab:>-
+" set listchars=tab:>-,trail:-,eol:$
 " 入力中のコマンドをステータスに表示する
 set showcmd
 " ステータスラインを常に表示
